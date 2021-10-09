@@ -1,9 +1,0 @@
-[2021-10-09 19:39:05] local.ERROR: Command "ui" is not defined. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"ui\" is not defined. at /media/microlent/e61eb478-b1d7-4896-bd20-a690762a8be01/Project/laravel/upwork/vendor/symfony/console/Application.php:682)
-[stacktrace]
-#0 /media/microlent/e61eb478-b1d7-4896-bd20-a690762a8be01/Project/laravel/upwork/vendor/symfony/console/Application.php(255): Symfony\\Component\\Console\\Application->find()
-#1 /media/microlent/e61eb478-b1d7-4896-bd20-a690762a8be01/Project/laravel/upwork/vendor/symfony/console/Application.php(167): Symfony\\Component\\Console\\Application->doRun()
-#2 /media/microlent/e61eb478-b1d7-4896-bd20-a690762a8be01/Project/laravel/upwork/vendor/laravel/framework/src/Illuminate/Console/Application.php(94): Symfony\\Component\\Console\\Application->run()
-#3 /media/microlent/e61eb478-b1d7-4896-bd20-a690762a8be01/Project/laravel/upwork/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(129): Illuminate\\Console\\Application->run()
-#4 /media/microlent/e61eb478-b1d7-4896-bd20-a690762a8be01/Project/laravel/upwork/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
-#5 {main}
-"} 
